@@ -13,7 +13,7 @@ A full time Student
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />][github]
 [<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./images/tinkercad.PNG" />][tinkercad]
-[<img align="left" alt="portfolio" title="portfolio" width="45" hspace="5" src="./images/portfolio.PNG" />][portfolio]
+[<img align="left" alt="portfolio" title="portfolio" width="45" hspace="5" src="./images/portfolio.png" />][portfolio]
 <br />
 <br />
 
