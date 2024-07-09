@@ -33,15 +33,27 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. M.Sc. in Software, Web & Cloud  
-   Tampere University  
-   Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
-   Leading University  
-   Sylhet, Bangladesh.
-3. Professional Diploma in Travel & Tourism  
-    London School of Commerce & IT  
-   London, England.
+1. B.Sc. in Computer Science & Engineering 
+      Green University of Bangladesh
+      Purbachal American City, Kanchon 1460.
+      August 2021 – Continue
+         ▪ Mentor
+         ▪ Class Representative
+   
+2. Higher Secondary School Certificate 
+      Moulana Saifuddin Ahiya Degree College
+      Shahzadpur, Sirajgonj .
+      July 2017 – May 2020
+         ▪ Bangladesh Scouts
+         ▪ Event Volunteer
+   
+3. Secondary School Certificate 
+      Jamirata High School 
+      Jamirata, Shahzadpur, Sirajgonj.
+      January 2012 – May 2017
+         ▪ Bangladesh Scouts
+         ▪ Event Volunteer
+
 
 <br />
 
@@ -52,9 +64,8 @@ Here are some ideas to get you started:
 ### Languages:
 
 - 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
 - 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
   <br />
 
 <!-- my languages section ends here  -->
@@ -64,7 +75,7 @@ Here are some ideas to get you started:
 ### Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking, 🚴‍♂️ Cycling, 🚘Driving
 - ✈️ Travelling
 
 <br />
@@ -74,10 +85,8 @@ Here are some ideas to get you started:
 
 ### 🏅 Honors & Awards :
 
-- 100% Scholarship in Masters at Tampere University, Finland
-- Silver Button from YouTube (350k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
-
+- Champion - Badminton Tournament Shahzadpur Upazila Sirajgonj ( 2018 ).
+- Runner up - Badminton Tournament Rajshahi ( 2019 ).
 ---
 
 Thanks for going through my Portfolio.
@@ -88,8 +97,9 @@ All rights reserved by Dulal-CSEcode @2024
 
 <!-- Links section starts here -->
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
+[youtube]: https://youtube.com/@dulal-csecode?si=ZCehq0D1Ijm0la6N
+[facebook]: https://www.facebook.com/md.dulalhossain.735944?mibextid=ZbWKwL
+[linkedin]: https://www.linkedin.com/in/md-dulal-hossain-42b476238/
+[github]: https://github.com/Dulal-CSEcode
+[Tinkercad]: https://www.tinkercad.com/dashboard
+
