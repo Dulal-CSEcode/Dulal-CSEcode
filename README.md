@@ -7,6 +7,8 @@ A full time Student
 
 <!-- Contact me section starts here  -->
 
+<h3 align="left">Connect with me:</h3>
+
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.png" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
@@ -29,6 +31,66 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 <br />
 <!-- about-me section ends here  -->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbykn44" alt="rabbykn44" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/rabbykn44)
+
+- 💬 Ask me about **Html CSS Python PHP Mysql**
+
+- 📫 How to reach me **rabbykhan80448044@gmail.com**
+
+- ⚡ Fun fact **I think i am Funny**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbykn44&show_icons=true&locale=en&layout=compact" alt="rabbykn44" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbykn44&show_icons=true&locale=en" alt="rabbykn44" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbykn44&" alt="rabbykn44" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Dulal-CSEcode/Dulal-CSEcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
