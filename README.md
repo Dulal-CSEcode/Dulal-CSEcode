@@ -151,7 +151,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <!-- work experience section starts here  -->
 
-<br/>
+<br />
+<br />
+
 <h2> 💼  Employment History </h2>
 
 |      Position       |                   Institute                 |       Duration      |                Location               |
