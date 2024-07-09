@@ -6,6 +6,26 @@ A Studemt
 
 🏠 &nbsp; Living: Dhaka , Bangladesh
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbykn44" alt="rabbykn44" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/rabbykn44)
+
+- 💬 Ask me about **Html CSS Python PHP Mysql**
+
+- 📫 How to reach me **rabbykhan80448044@gmail.com**
+
+- ⚡ Fun fact **I think i am Funny**
+
+<h3 align="left">Connect with me:</h3>
+
+
+
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="Website" width="45" hspace="5" src="./Images/website.png" />][website]
