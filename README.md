@@ -13,7 +13,7 @@ A Studemt
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./Images/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" title="Github" width="45" hspace="5" src="./Images/github.png" />][linkedin]
 [<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./Images/tinkercad.PNG" />][linkedin]
-[<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/protfolio.png" />][linkedin]
+[<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/portfolio.png" />][linkedin]
 
 
 
