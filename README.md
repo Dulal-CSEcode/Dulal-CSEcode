@@ -30,7 +30,7 @@ A Studemt
 <!-- Contact me section ends here  -->
 
 <p> <br /> </p> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </p>
+<h align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </h>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
 
