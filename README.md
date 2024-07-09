@@ -34,8 +34,8 @@ A Studemt
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
 -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dulal-CSEcode/Dulal-CSEcode/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dulal-CSEcode/Dulal-CSEcode/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- about-me section starts here  -->
 
@@ -47,7 +47,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/Dulal-CSEcode)
+- 👨‍💻 All of my projects are available at [https://github.com/Dulal-CSEcode]
 
 - 💬 Ask me about **Html CSS Python PHP Mysql**
 
