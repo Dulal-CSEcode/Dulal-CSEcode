@@ -34,6 +34,15 @@ A Studemt
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
 
+
+<!-- about-me section starts here  -->
+
+<h2> 👨‍🏫  About Me </h2>
+
+<p align="justify">
+I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+</p>
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/Dulal-CSEcode)
@@ -43,19 +52,8 @@ A Studemt
 - 📫 How to reach me **dulal.md.cse@gmail.com**
 
 - ⚡ Fun fact **I think i am Funny**
-<!-- about-me section starts here  -->
-
-<h2> 👨‍🏫  About Me </h2>
-
-<p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
-</p>
 
 <br />
-
-
-
-
 
 
 
