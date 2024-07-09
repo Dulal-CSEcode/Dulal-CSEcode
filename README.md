@@ -34,20 +34,22 @@ Here are some ideas to get you started:
 ### 👨🏻‍🎓 &nbsp; Education
 
 1. B.Sc. in Computer Science & Engineering 
-      Green University of Bangladesh
-      Purbachal American City, Kanchon 1460.
-      August 2021 – Continue
+   Green University of Bangladesh
+
+   Purbachal American City, Kanchon 1460.
+
+   August 2021 – Continue
          ▪ Mentor
          ▪ Class Representative
    
-2. Higher Secondary School Certificate 
+3. Higher Secondary School Certificate 
       Moulana Saifuddin Ahiya Degree College
       Shahzadpur, Sirajgonj .
       July 2017 – May 2020
          ▪ Bangladesh Scouts
          ▪ Event Volunteer
    
-3. Secondary School Certificate 
+4. Secondary School Certificate 
       Jamirata High School 
       Jamirata, Shahzadpur, Sirajgonj.
       January 2012 – May 2017
