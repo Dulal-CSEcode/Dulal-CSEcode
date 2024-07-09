@@ -32,8 +32,10 @@ A Studemt
 <p> <br /> </p> 
 <h align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </h>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
+-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- about-me section starts here  -->
 
