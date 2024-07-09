@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!-- work experience section starts here  -->
 
-### 💼 &nbsp; Employment History
+<h2> 💼  Employment History </h2>
 
 |      Position       |                   Institute                 |       Duration      |                Location               |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------------------------- |
@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+<h2> 👨🏻‍🎓  Education </h2>
 
-1. B.Sc. in Computer Science & Engineering
+<h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
          ▪ Class Representative
    
-2. Higher Secondary School Certificate (HSC)
+<h3> 2. Higher Secondary School Certificate (HSC) </h3>
    
       Moulana Saifuddin Ahiya Degree College
    
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
             ▪ Event Volunteer
    
-3. Secondary School Certificate (SSC) 
+<h3> 3. Secondary School Certificate (SSC) </h3>
 
       Jamirata High School
     
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <!-- my languages section starts here  -->
 
-### Languages:
+<h2> Languages: </h2>
 
 - 🇧🇩 Bangla : Native
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 <!-- my sports and game section starts here  -->
 
-### Sports / Game / Activities / Hobby:
+<h2> Sports / Game / Activities / Hobby: </h2>
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking, 🚴‍♂️ Cycling, 🚘Driving
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 
 <!-- Honors & awards section starts here  -->
 
-### 🏅 Honors & Awards :
+<h2> 🏅 Honors & Awards : </h2>
 
 - Champion - Badminton Tournament Shahzadpur Upazila Sirajgonj ( 2018 ).
 - Runner up - Badminton Tournament Rajshahi ( 2019 ).
