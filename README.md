@@ -1,8 +1,6 @@
 <h align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Page%20Visitors" /> </h>
 
 <h1 align="center">
-   <h1>MD Dulal Hossain</h1>
-      <h2>I'm <span class="typed" data-typed-items="Student, Mentor, Class Representative,Tutor, Coching Teacher"></span></h2>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
@@ -11,7 +9,8 @@
 
 
 
-<!-- banner image ends here  -->
+<!-- banner image <h1>MD Dulal Hossain</h1>
+      <h2>I'm <span class="typed" data-typed-items="Student, Mentor, Class Representative,Tutor, Coching Teacher"></span></h2> ends here  -->
 
 <h1> 👋 Hello, I'm MD Dulal Hossain </h1>
 
