@@ -39,12 +39,12 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 <br />
 <br />
 
-<!-- Contact me section ends here  -->
+<!-- Contact me section ends here 
 
 <p> <br /> </p> 
 <h align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </h>
 
-
+ -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
 -->
 <div align="center">
