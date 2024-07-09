@@ -11,7 +11,7 @@ A full time Student
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-[<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />][github]
+[<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.png" />][github]
 [<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./images/tinkercad.PNG" />][tinkercad]
 [<img align="left" alt="portfolio" title="portfolio" width="45" hspace="5" src="./images/portfolio.png" />][portfolio]
 <br />
