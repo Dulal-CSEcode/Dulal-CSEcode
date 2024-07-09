@@ -1,4 +1,4 @@
-<h align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Page%20Visitors" /> </h>
+<h align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&right_text=My%20Page%20Visitors" /> </h>
 <h1 align="center"> 👋 Hello, I'm MD Dulal Hossain </h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+student+👨‍🎓!;+I'm+Mentor+👨‍⚖️!;+I'm+Coching+Teacher+👨‍🏫!;+I'm+Tutor+👨‍🏫!;+I'm+Class+Representative+👨‍✈️!;" />
