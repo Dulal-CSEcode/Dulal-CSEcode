@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- other skills and my videos for computer science section starts here  -->
-### Languages
+<h2> Programing Languages</h2> 
 <!-- Frontend -->
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Frameworks
+<h2> Frameworks </h2> 
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### Tools
+<h2> Tools </h2> 
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" style="padding-right:10px;" />
@@ -151,6 +151,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <!-- work experience section starts here  -->
 
+<br/>
 <h2> 💼  Employment History </h2>
 
 |      Position       |                   Institute                 |       Duration      |                Location               |
