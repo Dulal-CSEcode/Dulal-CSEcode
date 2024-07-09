@@ -1,4 +1,31 @@
-## Hi there 👋
+<!-- banner image ends here  -->
+
+<h1> 👋 Hello, I'm Anisul Islam </h1>
+
+A full time content creator on & web developer  
+🏠 &nbsp; Living: Tampere, Finland
+
+<!-- Contact me section starts here  -->
+
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<br />
+<br />
+
+<!-- Contact me section ends here  -->
+
+<!-- about-me section starts here  -->
+
+### 👨‍🏫 &nbsp; About Me
+
+<p align="justify">
+I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+</p>
+
+<br />
+<!-- about-me section ends here  -->
 
 <!--
 **Dulal-CSEcode/Dulal-CSEcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
