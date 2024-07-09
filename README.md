@@ -8,20 +8,6 @@ A Studemt
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbykn44" alt="rabbykn44" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/rabbykn44)
-
-- 💬 Ask me about **Html CSS Python PHP Mysql**
-
-- 📫 How to reach me **rabbykhan80448044@gmail.com**
-
-- ⚡ Fun fact **I think i am Funny**
-
 <h3 align="left">Connect with me:</h3>
 
 
@@ -43,6 +29,20 @@ A Studemt
 
 <!-- Contact me section ends here  -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
+
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rabbykn44](https://github.com/Dulal-CSEcode)
+
+- 💬 Ask me about **Html CSS Python PHP Mysql**
+
+- 📫 How to reach me **dulal.md.cse@gmail.com**
+
+- ⚡ Fun fact **I think i am Funny**
 <!-- about-me section starts here  -->
 
 <h2> 👨‍🏫  About Me </h2>
@@ -52,6 +52,23 @@ I am a passionate computer science teacher. I have been teaching programming lan
 </p>
 
 <br />
+
+
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dulal-CSEcode&show_icons=true&locale=en&layout=compact" alt="Dulal-CSEcode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dulal-CSEcode&show_icons=true&locale=en" alt="Dulal-CSEcode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulal-CSEcode&" alt="Dulal-CSEcode" /></p>
+
+
+
+
+
 <!-- about-me section ends here  -->
 
 <!--
