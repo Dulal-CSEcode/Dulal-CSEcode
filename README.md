@@ -8,13 +8,13 @@ A Studemt
 
 <!-- Contact me section starts here  -->
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./Images/website.png" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./Images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./Images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./Images/linkedin.svg" />][linkedin]
-[<img align="left" alt="github" title="Github" width="45" hspace="5" src="./Images/github.png" />][linkedin]
-[<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./Images/tinkercad.PNG" />][linkedin]
-[<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/portfolio.png" />][linkedin]
+[<img align="left" alt="website" title="Website" width="45" hspace="5" src="./Images/website.png" />][website]
+[<img align="left" alt="youtube" title="Youtube link" width="45" hspace="5" src="./Images/youtube.svg" />][youtube]
+[<img align="left" alt="facebook" title="Facebook" width="45" hspace="5" src="./Images/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin" title="Linkedin" width="45" hspace="5" src="./Images/linkedin.svg" />][linkedin]
+[<img align="left" alt="github" title="Github" width="45" hspace="5" src="./Images/github.png" />][github]
+[<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./Images/tinkercad.PNG" />][tinkercad]
+[<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/portfolio.png" />][protfolio]
 
 
 
@@ -149,7 +149,7 @@ All rights reserved by Dulal-CSEcode @2024
 [facebook]: https://www.facebook.com/md.dulalhossain.735944?mibextid=ZbWKwL
 [linkedin]: https://www.linkedin.com/in/md-dulal-hossain-42b476238/
 [github]: https://github.com/Dulal-CSEcode
-[Tinkercad]: https://www.tinkercad.com/dashboard
+[tinkercad]: https://www.tinkercad.com/dashboard
 [website]: https://md-dulal-hossain-protfolio.netlify.app/
 [protfolio]: https://md-dulal-hossain-protfolio.netlify.app/
 <!-- Links section ends here -->
