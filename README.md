@@ -12,7 +12,7 @@ A full time content creator on & web developer
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />][github]
-[<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./images/tikercad.svg" />][tinkercad]
+[<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./images/tikercad.PNG" />][tinkercad]
 <br />
 <br />
 
