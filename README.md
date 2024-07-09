@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h2> 💼  Employment History </h2>
 
-<h3>|      Position       |                   Institute                 |       Duration      |                Location               |</h3>
+|      Position       |                   Institute                 |       Duration      |                Location               |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------------------------- |
 | Mentor              | Green University of Bangladesh (GUB)        | Aug 2022 - Running  | Purbachal American City, Kanchon 1460 |
 | Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460 |
