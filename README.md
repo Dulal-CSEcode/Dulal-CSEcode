@@ -70,35 +70,24 @@ Here are some ideas to get you started:
 <h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
-
       Purbachal American City, Kanchon 1460.
-
       August 2021 – Continue
-
          ▪ Mentor
-
          ▪ Class Representative
    
 <h3> 2. Higher Secondary School Certificate (HSC) </h3>
    
       Moulana Saifuddin Ahiya Degree College
-   
-      Shahzadpur, Sirajgonj .
-   
-      July 2017 – May 2020
-   
+      Shahzadpur, Sirajgonj . 
+      July 2017 – May 2020  
             ▪ Bangladesh Scouts
-
             ▪ Event Volunteer
    
 <h3> 3. Secondary School Certificate (SSC) </h3>
 
-      Jamirata High School
-    
-      Jamirata, Shahzadpur, Sirajgonj.
-   
-      January 2012 – May 2017
-   
+      Jamirata High School  
+      Jamirata, Shahzadpur, Sirajgonj. 
+      January 2012 – May 2017 
          ▪ Bangladesh Scouts
          ▪ Event Volunteer
 
