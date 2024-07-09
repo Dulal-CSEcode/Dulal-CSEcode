@@ -20,16 +20,12 @@ Here are some ideas to get you started:
 
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
+|      Position       |                   Institute                 |       Duration      |                Location               |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------------------------- |
+| Mentor              | Green University of Bangladesh (GUB)        | Aug 2022 - Running  | Purbachal American City, Kanchon 1460 |
+| Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460 |
+| Home Tutor (E.M.)   | Oxford International School( Student )      | May 2019 - Running  | Bata Goli, Dhaka 1205                 |
+| Content Creator     | YouTube                                     | Jan 2023- Running   | USA                                   |
 
 <br />
 <!-- work experience section ends here  -->
@@ -85,8 +81,7 @@ Here are some ideas to get you started:
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021
-
+All rights reserved by Dulal-CSEcode @2024
 ---
 
 <!-- my achievement section ends here  -->
