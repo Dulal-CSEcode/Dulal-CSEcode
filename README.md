@@ -34,8 +34,14 @@ A Studemt
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
 -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/opuu/opuu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 <!-- about-me section starts here  -->
 
