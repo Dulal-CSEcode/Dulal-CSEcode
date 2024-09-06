@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 <h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
-      Purbachal American City, Kanchon 1460.
+      Purbachal American City, Kanchon 1460 , Dhaka , Bangladesh .
       August 2021 – Continue
          ▪ Mentor
          ▪ Class Representative
