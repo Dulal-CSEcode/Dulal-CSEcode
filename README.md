@@ -1,7 +1,7 @@
 <h align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Page%20Visitors%20Numbers%20:" /> </h>
 <h1 align="center"> 👋 Hello, I'm MD Dulal Hossain </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+student+👨‍🎓!;+I'm+Mentor+👨‍⚖️!;+I'm+Coching+Teacher+👨‍🏫!;+I'm+Tutor+👨‍🏫!;+I'm+Class+Representative+👨‍✈️!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+student+👨‍🎓!;+I'm+Coching+Teacher+👨‍🏫!;+I'm+Tutor+👨‍🏫!;+I'm+Class+Representative+👨‍✈️!;" />
 </h1>
 
 
@@ -226,7 +226,7 @@ Here are some ideas to get you started:
       July 2017 – May 2020  
             ▪ Bangladesh Scouts
             ▪ Event Volunteer
-   
+            ▪ Class Representative
 <h3> 3. Secondary School Certificate (SSC) </h3>
 
       Jamirata High School  
@@ -234,6 +234,7 @@ Here are some ideas to get you started:
       January 2012 – May 2017 
          ▪ Bangladesh Scouts
          ▪ Event Volunteer
+         ▪ Class Captain
 
 
 <br />
@@ -283,6 +284,6 @@ All rights reserved by Dulal-CSEcode @2024
 [linkedin]: https://www.linkedin.com/in/md-dulal-hossain-42b476238/
 [github]: https://github.com/Dulal-CSEcode
 [tinkercad]: https://www.tinkercad.com/dashboard
-[website]: https://md-dulal-hossain-protfolio.netlify.app/
-[protfolio]: https://md-dulal-hossain-protfolio.netlify.app/
+[website]: https://md-dulal-hossain-protfolio.netlify.ap/
+[protfolio]: https://md-dulal-hossain-protfolio.netlify.ap/
 <!-- Links section ends here -->
