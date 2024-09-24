@@ -245,9 +245,9 @@ Here are some ideas to get you started:
 
 <h2> Languages: </h2>
 
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
-- 🇮🇳 Hindi : Intermediate
+-  Bangla     : Native
+-  English    : Intermediate
+-  Hindi      : Intermediate
   <br />
 
 <!-- my languages section ends here  -->
