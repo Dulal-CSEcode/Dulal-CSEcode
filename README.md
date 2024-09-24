@@ -202,7 +202,6 @@ Here are some ideas to get you started:
 
 |      Position       |                   Institute                 |       Duration      |                Location               |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------------------------- |
-| Mentor              | Green University of Bangladesh (GUB)        | Jul 2023 - Running  | Purbachal American City, Kanchon 1460 |
 | Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460 |
 | Home Tutor (E.M.)   | Oxford International School( Student )      | May 2019 - Running  | Bata Goli, Dhaka 1205                 |
 | Content Creator     | YouTube                                     | Jan 2023- Running   | USA                                   |
@@ -218,7 +217,6 @@ Here are some ideas to get you started:
       Green University of Bangladesh
       Purbachal American City, Kanchon 1460 , Dhaka , Bangladesh .
       August 2021 – Continue
-         ▪ Mentor
          ▪ Class Representative
    
 <h3> 2. Higher Secondary School Certificate (HSC) </h3>
