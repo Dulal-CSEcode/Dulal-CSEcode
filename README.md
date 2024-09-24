@@ -61,9 +61,9 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 <h2> 👨‍🏫  About Me </h2>
 
 <p align="justify">
-I am a Computer Science and Engineering student at Green University of Bangladesh with a CGPA of 3.54. My
-experience includes roles as a Home Tutor, Class Representative, and former volunteer with Bangladesh Scouts. I am
-proficient in programming languages like Python, Java, and C++, and experienced in Agile and Scrum methodologies.
+I am a Computer Science and Engineering student at Green University of Bangladesh.
+My experience includes roles as a Home Tutor, Class Representative, and former volunteer with Bangladesh Scouts. 
+I am proficient in programming languages like Python, Java, and C++, and experienced in Agile and Scrum methodologies.
 My projects showcase skills in developing a Desktop Voice Assistant, E-commerce Website, and Banking System.
 Awarded ‘Best Volunteer’ and recognized in sports, I am passionate about creating innovative solutions and working
 collaboratively. For more details, contact Dr. Muhammad Aminur Rahaman, Chairperson of CSE at Green University.
