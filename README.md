@@ -61,7 +61,12 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 <h2> 👨‍🏫  About Me </h2>
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+I am a Computer Science and Engineering student at Green University of Bangladesh with a CGPA of 3.54. My
+experience includes roles as a Home Tutor, Class Representative, and former volunteer with Bangladesh Scouts. I am
+proficient in programming languages like Python, Java, and C++, and experienced in Agile and Scrum methodologies.
+My projects showcase skills in developing a Desktop Voice Assistant, E-commerce Website, and Banking System.
+Awarded ‘Best Volunteer’ and recognized in sports, I am passionate about creating innovative solutions and working
+collaboratively. For more details, contact Dr. Muhammad Aminur Rahaman, Chairperson of CSE at Green University.
 </p>
 
 - 🌱 I’m currently learning **JavaScript**
