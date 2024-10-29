@@ -21,7 +21,6 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <!-- Contact me section starts here  -->
@@ -82,7 +81,7 @@ collaboratively. For more details, contact Dr. Muhammad Aminur Rahaman, Chairper
 <br />
 
 
-
+  <br/><br/><br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
