@@ -68,7 +68,7 @@ Awarded ‘Best Volunteer’ and recognized in sports, I am passionate about cre
 collaboratively. For more details, contact Dr. Muhammad Aminur Rahaman, Chairperson of CSE at Green University.
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning & Project Management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dulal-CSEcode]
 
