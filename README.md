@@ -208,11 +208,12 @@ Here are some ideas to get you started:
 
 <h2> 💼  Employment History </h2>
 
-|      Position       |                   Institute                 |       Duration      |                Location               |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------------------------- |
-| Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460 |
-| Home Tutor (E.M.)   | Oxford International School( Student )      | May 2019 - Running  | Bata Goli, Dhaka 1205                 |
-| Content Creator     | YouTube                                     | Jan 2023- Running   | USA                                   |
+|      Position       |                   Institute                 |       Duration      |                         Location                        |
+| ------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
+| Class Representative| Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – Running  | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
+| Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
+| Home Tutor (E.M.)   | Oxford International School( Student )      | May 2019 - Running  | Bata Goli, Dhaka 1205                                   |
+| Content Creator     | YouTube                                     | Jan 2023 - Running  | USA                                                     |
 
 <br />
 <!-- work experience section ends here  -->
