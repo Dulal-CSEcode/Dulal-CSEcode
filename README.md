@@ -286,7 +286,7 @@ Here are some ideas to get you started:
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Dulal-CSEcode @2024
+All rights reserved by Dulal-CSEcode @2025
 ---
 
 <!-- my achievement section ends here  -->
