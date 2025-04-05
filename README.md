@@ -298,6 +298,6 @@ All rights reserved by Dulal-CSEcode @2025
 [linkedin]: https://www.linkedin.com/in/md-dulal-hossain-42b476238/
 [github]: https://github.com/Dulal-CSEcode
 [tinkercad]: https://www.tinkercad.com/dashboard
-[website]: https://md-dulal-hossain-protfolio.netlify.app/
-[protfolio]: https://md-dulal-hossain-protfolio.netlify.ap/
+[website]: https://dulal-first-portfolio-by-react.vercel.app/
+[protfolio]: https://dulal-first-portfolio-by-react.vercel.app/
 <!-- Links section ends here -->
