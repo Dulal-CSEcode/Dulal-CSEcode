@@ -219,6 +219,7 @@ Here are some ideas to get you started:
 | Applied Researcher    | Nixtec Systems                              | Oct 2024 – Running  | Bangladesh & Netherland                                 |
 | Trainee               | GUB EDGE Digital Skills Development Program | Sep 2024 – Running  | Purbachal American City, Kanchon 1460                   |
 | Transport Spokesperson| Green University of Bangladesh (GUB)        | Sep 2024 – Running  | Purbachal American City, Kanchon 1460                   |
+| Basic Researcher      | Green University of Bangladesh (GUB)        | Jul 2024 – Running  | Purbachal American City, Kanchon 1460                   |
 | Class Representative  | Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
 | Home Tutor (E.M.)     | Oxford International School (Student)       | May 2019 - Running  | Bata Goli, Dhaka 1205                                   |
 | Content Creator       | YouTube                                     | Jan 2023 - Running  | USA                                                     |
