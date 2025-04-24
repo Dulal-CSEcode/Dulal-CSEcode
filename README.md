@@ -216,7 +216,7 @@ Here are some ideas to get you started:
 |      Position       |                   Institute                 |       Duration      |                         Location                        |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
 | Internship          | Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – Running  | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
-| Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
+| Applied Researcher  | Nixtec Systems                              | Oct 2024 – Running  | Bangladesh & Netherland                                 |
 | Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
 | Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
 | Class Representative| Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
