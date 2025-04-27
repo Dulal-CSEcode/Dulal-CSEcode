@@ -7,6 +7,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Github%20Page%20Visitors%20Numbers%20:" /> 
 </h>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbykn44&label=Profile%20views&color=0e75b6&style=flat" alt="rabbykn44" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbykn44" alt="rabbykn44" /></a> </p>
+
+
+
+
 <!-- Visitor Counter - WORKING VERSION 
 <p align="left"> 
   <img src="https://komarev.com/gh/Dulal-CSEcode/Dulal-CSEcode" alt="Profile Visitors">
