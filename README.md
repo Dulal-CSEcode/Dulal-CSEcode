@@ -11,8 +11,8 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Github%20Page%20Visitors%20Numbers%20:" /> 
 </h>
 
-<p align="right"> 
-  <img src="https://komarev.com/gh/your-username/your-repo" alt="visitor counter"> 
+<p align="left"> 
+  <img src="https://komarev.com/gh/Dulal-CSEcode" alt="visitor counter"> 
 </p>
 
 <h1 align="center"> 👋 Hello, I'm MD Dulal Hossain </h1>
