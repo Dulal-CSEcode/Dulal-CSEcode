@@ -11,6 +11,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Dulal-CSEcode.visitor-badge&left_text=My%20Github%20Page%20Visitors%20Numbers%20:" /> 
 </h>
 
+<p align="right"> 
+  <img src="https://komarev.com/gh/your-username/your-repo" alt="visitor counter"> 
+</p>
+
 <h1 align="center"> 👋 Hello, I'm MD Dulal Hossain </h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+student+👨‍🎓!;+I'm+Applied+Researcher+👨‍✈️!;+I'm+Project+Project+👨‍✈️!;+I'm+Software+Developer+👨‍✈️!;+I'm+Blockchain+and+AI+Enthusiast+👨‍✈️!;+I'm+RPA+and+Automation+Specialist+👨‍✈️!;+I'm+Passionate+About+Scalable+Solutions👨‍✈️!;+I'm+Coching+Teacher+👨‍🏫!;+I'm+Tutor+👨‍🏫!;+I'm+Class+Representative+👨‍✈️!;" /> 
