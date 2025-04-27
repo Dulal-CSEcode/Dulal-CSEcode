@@ -239,7 +239,10 @@ Here are some ideas to get you started:
       Green University of Bangladesh
       Purbachal American City, Kanchon 1460 , Dhaka , Bangladesh .
       August 2021 – Continue
+         ▪ Transport Spokesperson
          ▪ Class Representative
+         ▪ Basic Resercher
+         ▪ Trainee
    
 <h3> 2. Higher Secondary School Certificate (HSC) </h3>
    
