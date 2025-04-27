@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulal-CSEcode&label=Profile%20views&color=0e75b6&style=flat" alt="Dulal-CSEcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
-
 
 
 
@@ -309,6 +307,11 @@ Here are some ideas to get you started:
 - Research Publications - Development of Blockchain-based Framework for Certificate Verification and Fraud Prevention Research accepted at the 12th International Conference on Informatics, Electronics \& Vision (ICIEV), focusing on blockchain-based certificate verification ( 2025 ).
 - Champion - Badminton Tournament Shahzadpur Upazila Sirajgonj ( 2018 ).
 - Runner up - Badminton Tournament Rajshahi ( 2019 ).
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode" alt="Dulal-CSEcode" /></a> </p>
+
 ---
 
 Thanks for going through my Portfolio.
