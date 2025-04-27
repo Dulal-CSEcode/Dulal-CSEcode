@@ -289,7 +289,8 @@ Here are some ideas to get you started:
 
 <h2> 🏅 Honors & Awards : </h2>
 
-- Research Publications - Development of Blockchain-based Framework for Certificate Verification and Fraud Prevention Research accepted at the 12th International Conference on Informatics, Electronics \& Vision (ICIEV), focusing on blockchain-based certificate verification.
+- Research Publications - Development of Blockchain-based Framework for Certificate Verification and Fraud Prevention Research accepted at the 12th
+                          International Conference on Informatics, Electronics \& Vision (ICIEV), focusing on blockchain-based certificate verification.
 - Champion - Badminton Tournament Shahzadpur Upazila Sirajgonj ( 2018 ).
 - Runner up - Badminton Tournament Rajshahi ( 2019 ).
 ---
