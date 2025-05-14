@@ -236,9 +236,9 @@ Here are some ideas to get you started:
 
 |      Position         |                   Institute                 |       Duration      |                         Location                        |
 | --------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
-| Internship            | Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – Running  | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
+| Internship            | Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – May 2025 | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
 | Applied Researcher    | Nixtec Systems                              | Oct 2024 – Running  | Bangladesh & Netherland                                 |
-| Trainee               | GUB EDGE Digital Skills Development Program | Sep 2024 – Running  | Purbachal American City, Kanchon 1460                   |
+| Trainee               | GUB EDGE Digital Skills Development Program | Sep 2024 – May 2025 | Purbachal American City, Kanchon 1460                   |
 | Transport Spokesperson| Green University of Bangladesh (GUB)        | Sep 2024 – Running  | Purbachal American City, Kanchon 1460                   |
 | Basic Researcher      | Green University of Bangladesh (GUB)        | Jul 2024 – Running  | Purbachal American City, Kanchon 1460                   |
 | Class Representative  | Green University of Bangladesh (GUB)        | Aug 2021 – Running  | Purbachal American City, Kanchon 1460                   |
