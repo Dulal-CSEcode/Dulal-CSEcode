@@ -30,7 +30,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+student+👨‍🎓!;+I'm+Applied+Researcher+👨‍✈️!;+I'm+Project+Project+👨‍✈️!;+I'm+Software+Developer+👨‍✈️!;+I'm+Blockchain+and+AI+Enthusiast+👨‍✈️!;+I'm+RPA+and+Automation+Specialist+👨‍✈️!;+I'm+Passionate+About+Scalable+Solutions👨‍✈️!;+I'm+Coching+Teacher+👨‍🏫!;+I'm+Tutor+👨‍🏫!;+I'm+Class+Representative+👨‍✈️!;" /> 
 </h1>
 
-  | Project Project | Software Developer | Blockchain & AI Enthusiast | RPA & Automation Specialist | Passionate About Scalable Solutions | Innovation & Student at Green University of Bangladesh.
+| Officer | Teaching Assistant | Academic Assistant | Project Developer | Software Developer | Blockchain & AI Enthusiast | RPA & Automation Specialist | Passionate About Scalable Solutions | Innovation & Student at Green University of Bangladesh.
 
 
 
