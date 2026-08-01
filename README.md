@@ -291,7 +291,43 @@ Here are some ideas to get you started:
 
 <h2> 💼  Employment History </h2>
 
-|      Position         |                   Institute                 |       Duration      |                         Location                        |
+
+| **Position**                                    | **Institute   **                                                                          | **Duration **           | **Location   **                                        |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
+| **Officer**                                     | Canadian University of Bangladesh                                                         | **Jan 2026 – Present**  | 201/1 Pragati Sharani (Bir Uttam Rafiqul Islam Avenue), Dhaka-1212, Bangladesh                     |
+| **Coordinator (Alumni), Moderation Board**      | Green University Research & Publication Community (GURPC)                                 | **Jan 2026 – Present**  | Dhaka, Bangladesh                                      |
+| **Newsletter Editor, Executive Committee 2026** | IEEE Computer Society Bangladesh Chapter Graduate Student Member Forum (IEEE CS BDC GSMF) | **May 2026 – Present**  | Bangladesh                                             |
+| **Research Assistant**                          | Prof. Dr. Md. Ahsan Habib (SMIEEE)                                                        | **Aug 2024 – Present**  | Dhaka, Bangladesh                                      |
+| **Academic Assistant**                          | Department of CSE, Green University of Bangladesh                                         | **Oct 2025 – Dec 2025** | Purbachal American City, Kanchan, Narayanganj          |
+| **Instructor (AI, ML, DM & DL)**                | EduTock – Blended Learning Ecosystem                                                      | **Jun 2025 – Oct 2025** | Dhaka, Bangladesh                                      |
+| **Applied Researcher**                          | Nixtec Systems                                                                            | **Oct 2024 – Oct 2025** | Bangladesh & Netherlands (Remote)                      |
+| **Internship**                                  | Wizard Software & Technology Bangladesh Ltd.                                              | **Nov 2024 – May 2025** | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205 |
+| **Trainee**                                     | GUB EDGE Digital Skills Development Program                                               | **Sep 2024 – May 2025** | Purbachal American City, Kanchan, Narayanganj          |
+| **Transport Spokesperson**                      | Green University of Bangladesh (GUB)                                                      | **Mar 2025 – Oct 2025** | Purbachal American City, Kanchan, Narayanganj          |
+| **Basic Researcher**                            | Green University of Bangladesh (GUB)                                                      | **Jul 2024 – Present**  | Purbachal American City, Kanchan, Narayanganj          |
+| **Class Representative**                        | Green University of Bangladesh (GUB)                                                      | **Aug 2021 – Aug 2025** | Purbachal American City, Kanchan, Narayanganj          |
+| **Home Tutor (English Medium)**                 | Private Tutoring                                                                          | **May 2019 – Present**  | Moghbazar, Dhaka 1205                                  |
+| **Content Creator**                             | YouTube                                                                                   | **Jan 2023 – Present**  | Online (Global)                                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+
+|  **Position **  **    |                 **Institute **              |     **Duration  **  |                    **  Location **                      |
 | --------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
 | Officer               | Canadian University of Bangladesh (CUB)     | Jan 2026 – Present  | 201/1 Pragati Sharani (Bir Uttam Rafiqul Islam Avenue), Dhaka-1212, Bangladesh.          |
 | Academic Assistant    | Green University of Bangladesh (GUB)        | Oct 2025 – Dec 2025 | Purbachal American City, Kanchon 1460                   |
@@ -307,7 +343,7 @@ Here are some ideas to get you started:
 | Class Representative  | Green University of Bangladesh (GUB)        | Aug 2021 – Aug 2025 | Purbachal American City, Kanchon 1460                   |
 | Home Tutor (E.M.)     | Oxford International School (Student)       | May 2019 - Running  | Bata Goli, Moghbazar, Dhaka 1205                        |
 | Content Creator       | YouTube                                     | Jan 2023 - Running  | USA                                                     |
-
+ -->
 
 <br />
 <!-- work experience section ends here |  |  |  |  |  -->
