@@ -695,10 +695,6 @@ Developed **30+ additional projects** in Artificial Intelligence, Machine Learni
 <br />
 <!-- my sports and games section ends here  -->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dulal-CSEcode&theme=onedark)](https://github.com/Dulal-CSEcode/github-profile-trophy)
-
-
 ---
 
 Thanks for going through my Portfolio.
