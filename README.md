@@ -31,7 +31,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1300&height=70&duration=3500&pause=1000&lines=I'm+an+Officer+💼;I'm+a+Teaching+Assistant+👨‍🏫;I'm+an+Academic+Assistant+📚;I'm+an+Applied+Researcher+🔬;I'm+a+Scientific+Author+📝;I'm+a+Project+Developer+🚀;I'm+a+Software+Developer+💻;I'm+a+Blockchain+%26+AI+Enthusiast+🤖;I'm+an+RPA+%26+Automation+Specialist+⚙️;I'm+Passionate+About+Scalable+Solutions+🌐;I'm+Innovative+💡;I'm+a+Student+at+Jagannath+University+🎓;I'm+an+Alumnus+of+Green+University+of+Bangladesh+🏛️" />
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1300&height=70&duration=3500&pause=1000&lines=I'm+an+Officer+💼;Teaching+Assistant+👨‍🏫;Academic+Assistant+📚;Applied+Researcher+🔬;Scientific+Author+📝;Project+Developer+🚀;Software+Developer+💻;Blockchain+%26+AI+Enthusiast+🤖;RPA+%26+Automation+Specialist+⚙️;Passionate+About+Scalable+Solutions+🌐;Innovative+Thinker+💡;Student+at+Jagannath+University+🎓;Alumnus+of+Green+University+of+Bangladesh+🏛️" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1300&height=70&duration=3500&pause=1000&lines=Officer+💼;Teaching+Assistant+👨‍🏫;Academic+Assistant+📚;Applied+Researcher+🔬;Scientific+Author+📝;Project+Developer+🚀;Software+Developer+💻;Blockchain+%26+AI+Enthusiast+🤖;RPA+%26+Automation+Specialist+⚙️;Passionate+About+Scalable+Solutions+🌐;Innovative+Thinker+💡;Student+at+Jagannath+University+🎓;Alumnus+of+Green+University+of+Bangladesh+🏛️" />
 
 
 <!-- 
@@ -293,6 +293,10 @@ Here are some ideas to get you started:
 
 |      Position         |                   Institute                 |       Duration      |                         Location                        |
 | --------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
+| Officer               | Canadian University of Bangladesh (CUB)     | Jan 2026 – Present  | 201/1 Pragati Sharani, Dhaka-1212, Bangladesh.          |
+| Academic Assistant    | Green University of Bangladesh (GUB)        | Oct 2025 – Dec 2025 | Purbachal American City, Kanchon 1460                   |
+| Research Assistant    | Prof. Dr. Md. Ahsan Habib (SMIEEE)          | Aug 2024 – Present  | Dhaka, Bangladesh                                       |
+| Instructor(AI,ML & DL)| EduTock – Blended Learning Ecosystem        | Jun 2025 – Oct 2025 | Dhaka, Bangladesh                                       |
 | Internship            | Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – May 2025 | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
 | Applied Researcher    | Nixtec Systems                              | Oct 2024 – Running  | Bangladesh & Netherland                                 |
 | Trainee               | GUB EDGE Digital Skills Development Program | Sep 2024 – May 2025 | Purbachal American City, Kanchon 1460                   |
@@ -302,8 +306,9 @@ Here are some ideas to get you started:
 | Home Tutor (E.M.)     | Oxford International School (Student)       | May 2019 - Running  | Bata Goli, Moghbazar, Dhaka 1205                        |
 | Content Creator       | YouTube                                     | Jan 2023 - Running  | USA                                                     |
 
+
 <br />
-<!-- work experience section ends here  -->
+<!-- work experience section ends here |  |  |  |  |  -->
 <!-- education section starts here  -->
 
 <h2> 👨🏻‍🎓  Education </h2>
