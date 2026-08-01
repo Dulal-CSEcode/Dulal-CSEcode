@@ -292,7 +292,7 @@ Here are some ideas to get you started:
 <h2> 💼  Employment History </h2>
 
 
-| **Position**                                    | **Institute**                                                                          | **Duration**           | **Location**                                        |
+| **Position**                             | **Institute**                                                        | **Duration**               | **Location**                                        |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
 | **Officer**                                     | Canadian University of Bangladesh                                                         | **Jan 2026 – Present**  | 201/1 Pragati Sharani (Bir Uttam Rafiqul Islam Avenue), Dhaka-1212, Bangladesh                     |
 | **Academic Assistant**                          | Department of CSE, Green University of Bangladesh                                         | **Oct 2025 – Dec 2025** | Purbachal American City, Kanchan, Narayanganj          |
