@@ -434,6 +434,214 @@ Here are some ideas to get you started:
 
 <!-- education section ends here  -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2> 📚 Research Publications </h2>
+
+### 📖 Journal Articles
+
+1. **Institutional Certificate Verification for Fraud Detection through a Blockchain-Based Framework**  
+   *Engineering Reports* (Under Second Review, 2026)
+
+2. **An Explainable and Adaptive Hybrid Ensemble Learning Framework for Detecting DNS Spoofing and Cache Poisoning Attacks in Large-Scale Network Systems**  
+   *IEEE Transactions on Information Forensics and Security (TIFS)* (Under Review, 2026)
+
+---
+
+### 📑 Conference Proceedings
+
+#### ✅ Published
+
+1. **Hybrid Deep Learning and Ensemble Methods for Dependable IoT Intrusion Detection**  
+   *2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
+   📍 Dhaka, Bangladesh | IEEE Xplore | DOI: 10.1109/STI69347.2025.11367614
+
+2. **A Hybrid Deep Ensemble Framework for Intelligent Intrusion Detection and Classification in Data Center Environments**  
+   *2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)*  
+   📍 Dhaka, Bangladesh | IEEE Xplore | DOI: 10.1109/STI69347.2025.11367527
+
+3. **A Hybrid Explainable ML-DL Framework for Colorectal Cancer Biomarker Discovery and Prognosis Using Transcriptomic Data**  
+   *2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026)*  
+   📍 Chattogram, Bangladesh | IEEE Xplore | DOI: 10.1109/QPAIN69676.2026.11546167
+
+4. **BCVFD: Development of Blockchain-Based Framework for Certificate Verification and Fraud Detection**  
+   *IEEE Computer Society Bangladesh Chapter Summer Symposium 2025*
+
+---
+
+#### 📝 Under Review
+
+5. **PPO-Based Deep Reinforcement Learning for Cross-Modal QoE Optimization in Adaptive Mulsemedia Streaming**  
+   *3rd International Conference on Machine Intelligence and Emerging Technologies (MIET 2026)*  
+   Springer | Under Review
+
+6. **A Privacy-Preserving Zero-Day Attack Detection Framework for 5G-Enabled IIoT Using Federated Learning and Blockchain Technology**  
+   *3rd International Conference on Machine Intelligence and Emerging Technologies (MIET 2026)*  
+   Springer | Under Review
+
+7. **Emotion-Aware Mental Health Detection Using Cognitive Modeling and Transformer-Based NLP**  
+   *3rd International Conference on Machine Intelligence and Emerging Technologies (MIET 2026)*  
+   Springer | Under Review
+
+8. **Joint Service Migration and Resource Allocation in Cloud Computing Using Large Language Models (LLMs)**  
+   *12th IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2026)*  
+   IEEE | Under Review
+
+---
+
+📊 **Research Summary**
+
+- 📄 **2** Journal Manuscripts (Under Review)
+- 📚 **4** Published Conference Papers
+- 📝 **4** Conference Papers Under Review
+- 🌐 Publications in **IEEE**, **Springer**, and **IEEE Xplore Digital Library**
+- 🔬 Research Areas: **Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Cybersecurity, Bioinformatics, NLP, and Healthcare AI**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2> 🚀 Featured Projects </h2>
+
+### 🌾 PestSignal: Crop Insect Detection & Prevention
+**Tech Stack:** Python, YOLOv11, Deep Learning, Computer Vision  
+Offline AI-powered pest detection system for Bangladeshi agriculture, optimized for mobile and desktop deployment using model pruning and quantization.
+
+### 🛒 BanglaHaat Shopping (Full-Stack E-Commerce)
+**Tech Stack:** React.js, Tailwind CSS, MongoDB, Stripe, Cloudinary, Git, Vercel  
+A modern e-commerce platform featuring secure online payments, product management, responsive UI, and cloud-based image storage.
+
+### 🤖 Intelligent Review Analyzer
+**Tech Stack:** Python, SVM, BERT, NLP  
+Machine learning and transformer-based sentiment analysis system that classifies customer reviews into positive, negative, and neutral categories.
+
+### 🐾 PET Management System
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+Web application for managing pet profiles, appointments, and medical records with an intuitive user interface.
+
+### 🎙️ Desktop Voice Assistant
+**Tech Stack:** Python, Speech Recognition, Text-to-Speech  
+Virtual assistant capable of executing voice commands, playing music, providing weather updates, and performing daily productivity tasks.
+
+### 🛍️ SDM Dulal PC Shop
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL  
+E-commerce website featuring user authentication, shopping cart, admin dashboard, and computer repair service management.
+
+### 💬 Group Chat Application
+**Tech Stack:** Java, JavaFX, Socket Programming  
+Real-time messaging application supporting text, image sharing, emojis, and client-server communication.
+
+### 🏫 School Management System
+**Tech Stack:** Java, DBMS  
+Comprehensive school management platform with modules for students, teachers, fees, results, and administration.
+
+### 🏦 Banking System
+**Tech Stack:** Java, Database Systems  
+Banking application supporting account management, balance inquiry, fund transfer, and transaction history.
+
+### 💻 More Projects
+Developed **30+ additional projects** in Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Web Development, Data Science, and Software Engineering.
+
+🔗 **GitHub Portfolio:** https://github.com/Dulal-CSEcode
+
+
+
+
+
+
+
+
+<h2> 📜 Certifications </h2>
+
+- 🐍 **Python & Django Developer** – Institute of Information Technology (IIT), Jahangirnagar University (EDGE Program) *(Nov 2024)*
+
+- 🤖 **Automation Anywhere Masters** – Automation Anywhere *(2026)*
+
+- 🤖 **Automation Anywhere Essentials** – Automation Anywhere *(May 2025)*
+
+- 🧠 **AI+ Prompt Engineer™: Level 1** – AI CERTs™ *(Jun 2025)*
+
+- 💼 **Prompting with Microsoft Copilot** – Microsoft
+
+- 🌐 **AI/ML/IoT Bootcamp** – IEEE Computer Society Student Branch Chapter, Green University of Bangladesh *(Nov 2025)*
+
+- 🏅 **Certificate of Appreciation (Author)** – IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025) *(Dec 2025)*
+
+- 🏅 **Certificate of Contribution (Author)** – IEEE CS BDC Summer Symposium 2025 *(Jul 2025)*
+
+
+
+
+
+
+
+
+
+
+
+<h2> 🌟 Extra-Curricular Activities </h2>
+
+- 📰 **Newsletter Editor**, Executive Committee 2026, IEEE Computer Society Bangladesh Chapter Graduate Student Member Forum (IEEE CS BDC GSMF) *(May 2026 – Present)*
+
+- 🎓 **Coordinator (Alumni), Moderation Board**, Green University Research & Publication Community (GURPC) *(Jan 2026 – Present)*
+
+- 🎤 **Keynote Speaker**, Webinar: *Cyber Existence of a Graduate's Professional Skills* *(Mar 2025)*
+
+- 🏛️ **STI 2025 Volunteer**, IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025) *(Dec 2025)*
+
+- 🏛️ **STI 2024 Volunteer**, IEEE 6th International Conference on Sustainable Technologies for Industry 5.0 (STI 2024) *(Dec 2024)*
+
+- 🎙️ **Volunteer (Anchor)**, *Unlock Your AI Potential with Agent X!* *(Apr 2025)*
+
+- 🎙️ **Volunteer (Anchor)**, GUB EDGE Program Closing Ceremony *(May 2025)*
+
+- 🛡️ **Volunteer**, Cyber Security and Cloud Systems Seminar *(Dec 2024)*
+
+- 📝 **Documentation Contributor**, Green University of Bangladesh *(Jun 2023 – Dec 2025)*
+
+- 🚌 **Transport Spokesperson (Lead)**, Green University of Bangladesh *(Mar 2025 – Oct 2025)*
+
+- 🧑‍🏫 **Exam Invigilator**, NET Admission Test, Green University of Bangladesh *(Jun 2025)*
+
+- 👨‍🏫 **Home Tutor (English Medium)** *(Dec 2021 – Oct 2025)*
+
+- ⚜️ **Bangladesh Scouts (Member)**, Moulana Saifuddin Ahiya Degree College *(Jun 2017 – May 2019)*
+
+- 🤝 **Event Organizer (Leader)**, Moulana Saifuddin Ahiya Degree College *(Jan 2018 – Jan 2019)*
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- my languages section starts here  -->
 
 <h2> Languages: </h2>
