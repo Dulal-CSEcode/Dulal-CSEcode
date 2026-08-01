@@ -334,7 +334,7 @@ Here are some ideas to get you started:
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Dulal-CSEcode @2025
+All rights reserved by Dulal-CSEcode @2022
 ---
 
 <!-- my achievement section ends here  -->
@@ -348,4 +348,5 @@ All rights reserved by Dulal-CSEcode @2025
 [tinkercad]: https://www.tinkercad.com/dashboard
 [website]: https://dulal-first-portfolio-by-react.vercel.app/
 [protfolio]: https://dulal-first-portfolio-by-react.vercel.app/
+
 <!-- Links section ends here -->
