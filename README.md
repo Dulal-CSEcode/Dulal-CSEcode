@@ -97,6 +97,47 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 
 <!-- about-me section starts here  -->
 
+
+<h2>👨‍💻 About Me</h2>
+
+<p align="justify">
+
+I am an M.Sc. student in Computer Science and Engineering at Jagannath University and a Research Assistant under the supervision of <b>Prof. Dr. Md. Ahsan Habib</b>. I also work as an Officer at the Canadian University of Bangladesh and previously served as an Academic Assistant in the Department of CSE at Green University of Bangladesh.
+
+My research interests include <b>Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Cybersecurity, Bioinformatics,</b> and <b>Data Science</b>. I have authored and co-authored multiple IEEE conference papers and journal manuscripts, with research focusing on intelligent systems, healthcare AI, blockchain applications, and network security.
+
+I am passionate about learning emerging technologies, conducting impactful research, publishing scientific papers, and collaborating on innovative projects that address real-world challenges.
+
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+* 🌱 I’m currently pursuing an **M.Sc. in Computer Science and Engineering at Jagannath University**
+
+* 🔬 I’m actively conducting research in **Artificial Intelligence, Machine Learning, Deep Learning, Blockchain, Cybersecurity, Bioinformatics, and Data Science**
+
+* 👨‍💻 My projects are available at **https://github.com/Dulal-CSEcode**
+
+* 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Mining, Blockchain, and Research**
+
+* 📫 Reach me at **[dulal.md.cse@gmail.com](mailto:dulal.md.cse@gmail.com)**
+
+* ⚡ Fun fact: **I enjoy turning research ideas into practical solutions.**
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2> 👨‍🏫  About Me </h2>
 
 <p align="justify">
