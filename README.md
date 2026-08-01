@@ -65,14 +65,15 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 
 [<img align="left" alt="website" title="Website" width="45" hspace="5" src="./Images/website.png" />][website]
 [<img align="left" alt="youtube" title="Youtube link" width="45" hspace="5" src="./Images/youtube.svg" />][youtube]
+[<img align="left" alt="orcid" title="ORCID" width="45" hspace="5" src="./Images/orcid.svg.webp" />][orcid]
+[<img align="left" alt="researchgate" title="ResearchGate" width="45" hspace="5" src="./Images/researchgate.svg.png" />][researchgate]
+[<img align="left" alt="googlescholar" title="Google Scholar" width="45" hspace="5" src="./Images/google-scholar.svg.webp" />][googlescholar]
 [<img align="left" alt="facebook" title="Facebook" width="45" hspace="5" src="./Images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="Linkedin" width="45" hspace="5" src="./Images/linkedin.svg" />][linkedin]
 [<img align="left" alt="github" title="Github" width="45" hspace="5" src="./Images/github.png" />][github]
 [<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./Images/tinkercad.PNG" />][tinkercad]
 [<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/portfolio.png" />][protfolio]
-[<img align="left" alt="orcid" title="ORCID" width="45" hspace="5" src="./Images/orcid.svg.webp" />][orcid]
-[<img align="left" alt="researchgate" title="ResearchGate" width="45" hspace="5" src="./Images/researchgate.svg.png" />][researchgate]
-[<img align="left" alt="googlescholar" title="Google Scholar" width="45" hspace="5" src="./Images/google-scholar.svg.webp" />][googlescholar]
+
 
 
 <br />
