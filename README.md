@@ -70,7 +70,9 @@ Hi+There!+👋;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+Muniz!;+I'm+Pedro+
 [<img align="left" alt="github" title="Github" width="45" hspace="5" src="./Images/github.png" />][github]
 [<img align="left" alt="tinkercad" title="Tinkercad" width="45" hspace="5" src="./Images/tinkercad.PNG" />][tinkercad]
 [<img align="left" alt="protfolio" title="Protfolio" width="45" hspace="5" src="./Images/portfolio.png" />][protfolio]
-
+[<img align="left" alt="orcid" title="ORCID" width="45" hspace="5" src="./Images/orcid.svg.webp" />][orcid]
+[<img align="left" alt="researchgate" title="ResearchGate" width="45" hspace="5" src="./Images/researchgate.svg.png" />][researchgate]
+[<img align="left" alt="googlescholar" title="Google Scholar" width="45" hspace="5" src="./Images/google-scholar.svg.webp" />][googlescholar]
 
 
 <br />
