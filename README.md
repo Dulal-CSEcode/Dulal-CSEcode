@@ -351,6 +351,57 @@ Here are some ideas to get you started:
 
 <h2> 👨🏻‍🎓  Education </h2>
 
+<!-- education section starts here  -->
+
+<h2> 👨🏻‍🎓 Education </h2>
+
+<h3> 1. M.Sc. in Computer Science & Engineering (Professional) </h3>
+
+      Jagannath University
+      Dhaka 1100, Bangladesh.
+      June 2026 – Present
+        ▪ Graduate Researcher
+        ▪ Research in Artificial Intelligence & Machine Learning
+        ▪ IEEE Conference & Journal Publications
+
+<h3> 2. B.Sc. in Computer Science & Engineering </h3>
+
+      Green University of Bangladesh
+      Purbachal American City, Kanchan 1460, Narayanganj, Bangladesh.
+      August 2021 – December 2025
+         ▪ Academic Assistant
+         ▪ Research Assistant
+         ▪ Transport Spokesperson
+         ▪ Class Representative
+         ▪ Basic Researcher
+         ▪ Trainee (EDGE Digital Skills Development Program)
+
+<h3> 3. Higher Secondary School Certificate (HSC) </h3>
+
+      Moulana Saifuddin Ahia Degree College
+      Shahzadpur, Sirajganj, Bangladesh.
+      July 2017 – May 2020
+         ▪ Bangladesh Scouts
+         ▪ Event Volunteer
+         ▪ Class Representative
+
+<h3> 4. Secondary School Certificate (SSC) </h3>
+
+      Jamirata High School
+      Jamirata, Shahzadpur, Sirajganj, Bangladesh.
+      January 2012 – May 2017
+         ▪ Bangladesh Scouts
+         ▪ Event Volunteer
+         ▪ Class Captain
+
+<br />
+
+<!-- education section ends here  -->
+
+
+
+
+
 <h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
