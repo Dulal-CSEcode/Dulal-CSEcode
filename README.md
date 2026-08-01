@@ -351,9 +351,7 @@ Here are some ideas to get you started:
 
 <h2> 👨🏻‍🎓  Education </h2>
 
-<!-- education section starts here  -->
 
-<h2> 👨🏻‍🎓 Education </h2>
 
 <h3> 1. M.Sc. in Computer Science & Engineering (Professional) </h3>
 
@@ -401,7 +399,11 @@ Here are some ideas to get you started:
 
 
 
+
+<!-- education section starts here  -->
 <!-- 
+<h2> 👨🏻‍🎓 Education </h2>
+
 <h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
