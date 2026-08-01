@@ -348,5 +348,9 @@ All rights reserved by Dulal-CSEcode @2022
 [tinkercad]: https://www.tinkercad.com/dashboard
 [website]: https://dulal-first-portfolio-by-react.vercel.app/
 [protfolio]: https://dulal-first-portfolio-by-react.vercel.app/
+[orcid]: https://orcid.org/0009-0000-9327-5027
+[researchgate]: https://www.researchgate.net/profile/Md-Hossain-1573
+[googlescholar]: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=WviMANMAAAAJ
+
 
 <!-- Links section ends here -->
