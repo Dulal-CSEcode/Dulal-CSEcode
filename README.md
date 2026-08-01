@@ -401,7 +401,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!-- 
 <h3> 1. B.Sc. in Computer Science & Engineering </h3>
 
       Green University of Bangladesh
@@ -428,7 +428,7 @@ Here are some ideas to get you started:
          ▪ Bangladesh Scouts
          ▪ Event Volunteer
          ▪ Class Captain
-
+-->
 
 <br />
 
@@ -441,6 +441,7 @@ Here are some ideas to get you started:
 -  Bangla     : Native
 -  English    : Intermediate
 -  Hindi      : Intermediate
+-  Urdu      : Intermediate
   <br />
 
 <!-- my languages section ends here  -->
@@ -458,11 +459,22 @@ Here are some ideas to get you started:
 
 <!-- Honors & awards section starts here  -->
 
-<h2> 🏅 Honors & Awards : </h2>
 
-- Research Publications - Development of Blockchain-based Framework for Certificate Verification and Fraud Prevention Research accepted at the 12th International Conference on Informatics, Electronics \& Vision (ICIEV), focusing on blockchain-based certificate verification ( 2025 ).
-- Champion - Badminton Tournament Shahzadpur Upazila Sirajgonj ( 2018 ).
-- Runner up - Badminton Tournament Rajshahi ( 2019 ).
+<h2> 🏅 Honors & Awards </h2>
+
+- 🏆 **Best Presenter Award** – 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026), recognized for outstanding research presentation (April 2026).
+
+- 🎓 **Academic Excellence Award (Dean's Certificate Eligibility)** – Green University of Bangladesh, recognized for outstanding academic performance in **Fall 2023 (GPA 3.80), Spring 2025 (GPA 3.91), and Summer 2025 (GPA 3.90)**.
+
+- 📄 **Research Publication** – *Hybrid Deep Learning and Ensemble Methods for Dependable IoT Intrusion Detection*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
+
+- 📄 **Research Publication** – *A Hybrid Deep Ensemble Framework for Intelligent Intrusion Detection and Classification in Data Center Environments*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
+
+- 📄 **Research Publication** – *BCVFD: Development of Blockchain-based Framework for Certificate Verification and Fraud Detection*, presented at the **IEEE Computer Society Bangladesh Chapter Summer Symposium 2025**.
+
+- 🥈 **Runner-up** – Badminton Tournament, Rajshahi (2019).
+
+- 🏆 **Champion** – Badminton Tournament, Shahzadpur Upazila, Sirajganj (2018).
 
 
 
