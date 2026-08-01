@@ -293,10 +293,12 @@ Here are some ideas to get you started:
 
 |      Position         |                   Institute                 |       Duration      |                         Location                        |
 | --------------------- | ------------------------------------------- | ------------------- | ------------------------------------------------------- |
-| Officer               | Canadian University of Bangladesh (CUB)     | Jan 2026 – Present  | 201/1 Pragati Sharani, Dhaka-1212, Bangladesh.          |
+| Officer               | Canadian University of Bangladesh (CUB)     | Jan 2026 – Present  | 201/1 Pragati Sharani (Bir Uttam Rafiqul Islam Avenue), Dhaka-1212, Bangladesh.          |
 | Academic Assistant    | Green University of Bangladesh (GUB)        | Oct 2025 – Dec 2025 | Purbachal American City, Kanchon 1460                   |
 | Research Assistant    | Prof. Dr. Md. Ahsan Habib (SMIEEE)          | Aug 2024 – Present  | Dhaka, Bangladesh                                       |
 | Instructor(AI,ML & DL)| EduTock – Blended Learning Ecosystem        | Jun 2025 – Oct 2025 | Dhaka, Bangladesh                                       |
+| **Coordinator (Alumni), Moderation Board**      | Green University Research & Publication Community (GURPC)                                 | **Jan 2026 – Present**  | Dhaka, Bangladesh                                      |
+| **Newsletter Editor, Executive Committee 2026** | IEEE Computer Society Bangladesh Chapter Graduate Student Member Forum (IEEE CS BDC GSMF) | **May 2026 – Present**  | Bangladesh                                             |
 | Internship            | Wizard Software & Technology Bangladesh Ltd.| Nov 2024 – May 2025 | Level 9, F Haque Tower, 107 Sonargaon Road, Dhaka 1205. |
 | Applied Researcher    | Nixtec Systems                              | Oct 2024 – Running  | Bangladesh & Netherland                                 |
 | Trainee               | GUB EDGE Digital Skills Development Program | Sep 2024 – May 2025 | Purbachal American City, Kanchon 1460                   |
