@@ -31,7 +31,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1300&height=70&duration=3500&pause=1000&lines=I'm+an+Officer+💼;I'm+a+Teaching+Assistant+👨‍🏫;I'm+an+Academic+Assistant+📚;I'm+an+Applied+Researcher+🔬;I'm+a+Scientific+Author+📝;I'm+a+Project+Developer+🚀;I'm+a+Software+Developer+💻;I'm+a+Blockchain+%26+AI+Enthusiast+🤖;I'm+an+RPA+%26+Automation+Specialist+⚙️;I'm+Passionate+About+Scalable+Solutions+🌐;I'm+Innovative+💡;I'm+a+Student+at+Jagannath+University+🎓;I'm+an+Alumnus+of+Green+University+of+Bangladesh+🏛️" />
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1500&height=70&duration=3500&pause=1000&lines=I'm+an+Officer+💼;Teaching+Assistant+👨‍🏫;Academic+Assistant+📚;Applied+Researcher+🔬;Scientific+Author+📝;Project+Developer+🚀;Software+Developer+💻;Blockchain+%26+AI+Enthusiast+🤖;RPA+%26+Automation+Specialist+⚙️;Passionate+About+Scalable+Solutions+🌐;Innovative+Thinker+💡;Student+at+Jagannath+University+🎓;Alumnus+of+Green+University+of+Bangladesh+🏛️" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1300&height=70&duration=3500&pause=1000&lines=I'm+an+Officer+💼;Teaching+Assistant+👨‍🏫;Academic+Assistant+📚;Applied+Researcher+🔬;Scientific+Author+📝;Project+Developer+🚀;Software+Developer+💻;Blockchain+%26+AI+Enthusiast+🤖;RPA+%26+Automation+Specialist+⚙️;Passionate+About+Scalable+Solutions+🌐;Innovative+Thinker+💡;Student+at+Jagannath+University+🎓;Alumnus+of+Green+University+of+Bangladesh+🏛️" />
 
 
 <!-- 
