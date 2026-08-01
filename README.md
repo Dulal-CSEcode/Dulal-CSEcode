@@ -138,6 +138,7 @@ I am passionate about learning emerging technologies, conducting impactful resea
 
 
 
+<!--
 
 <h2> 👨‍🏫  About Me </h2>
 
@@ -161,7 +162,7 @@ collaboratively. For more details, contact Dr. Muhammad Aminur Rahaman, Chairper
 - ⚡ Fun fact **I think i am Funny**
 
 <br />
-
+ -->
 
   <br/><br/><br/>
 
