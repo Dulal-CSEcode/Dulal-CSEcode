@@ -638,6 +638,34 @@ Developed **30+ additional projects** in Artificial Intelligence, Machine Learni
 
 
 
+<!-- Honors & awards section starts here  -->
+
+
+<h2> 🏅 Honors & Awards </h2>
+
+- 🏆 **Best Presenter Award** – 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026), recognized for outstanding research presentation (April 2026).
+
+- 🎓 **Academic Excellence Award (Dean's Certificate Eligibility)** – Green University of Bangladesh, recognized for outstanding academic performance in **Fall 2023 (GPA 3.80), Spring 2025 (GPA 3.91), and Summer 2025 (GPA 3.90)**.
+
+- 📄 **Research Publication** – *Hybrid Deep Learning and Ensemble Methods for Dependable IoT Intrusion Detection*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
+
+- 📄 **Research Publication** – *A Hybrid Deep Ensemble Framework for Intelligent Intrusion Detection and Classification in Data Center Environments*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
+
+- 📄 **Research Publication** – *BCVFD: Development of Blockchain-based Framework for Certificate Verification and Fraud Detection*, presented at the **IEEE Computer Society Bangladesh Chapter Summer Symposium 2025**.
+
+- 🥈 **Runner-up** – Badminton Tournament, Rajshahi (2019).
+
+- 🏆 **Champion** – Badminton Tournament, Shahzadpur Upazila, Sirajganj (2018).
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -664,25 +692,6 @@ Developed **30+ additional projects** in Artificial Intelligence, Machine Learni
 
 <br />
 <!-- my sports and games section ends here  -->
-
-<!-- Honors & awards section starts here  -->
-
-
-<h2> 🏅 Honors & Awards </h2>
-
-- 🏆 **Best Presenter Award** – 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN 2026), recognized for outstanding research presentation (April 2026).
-
-- 🎓 **Academic Excellence Award (Dean's Certificate Eligibility)** – Green University of Bangladesh, recognized for outstanding academic performance in **Fall 2023 (GPA 3.80), Spring 2025 (GPA 3.91), and Summer 2025 (GPA 3.90)**.
-
-- 📄 **Research Publication** – *Hybrid Deep Learning and Ensemble Methods for Dependable IoT Intrusion Detection*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
-
-- 📄 **Research Publication** – *A Hybrid Deep Ensemble Framework for Intelligent Intrusion Detection and Classification in Data Center Environments*, published in the **2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)** and indexed in **IEEE Xplore**.
-
-- 📄 **Research Publication** – *BCVFD: Development of Blockchain-based Framework for Certificate Verification and Fraud Detection*, presented at the **IEEE Computer Society Bangladesh Chapter Summer Symposium 2025**.
-
-- 🥈 **Runner-up** – Badminton Tournament, Rajshahi (2019).
-
-- 🏆 **Champion** – Badminton Tournament, Shahzadpur Upazila, Sirajganj (2018).
 
 
 
