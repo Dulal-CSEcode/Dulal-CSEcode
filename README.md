@@ -38,7 +38,7 @@
 </h1>
   
   <p>
-| Officer | Teaching Assistant | Academic Assistant | Project Developer | Software Developer | Blockchain & AI Enthusiast | RPA & Automation Specialist | Passionate About Scalable Solutions | Innovation | Student at Jagannath University | Alumnus at Green University of Bangladesh |.
+| Research Assistant | Officer | Teaching Assistant | Academic Assistant | Project Developer | Software Developer | Blockchain & AI Enthusiast | RPA & Automation Specialist | Passionate About Scalable Solutions | Innovation | Student at Jagannath University | Alumnus at Green University of Bangladesh |.
 </p>
 
 
